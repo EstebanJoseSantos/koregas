@@ -1,4 +1,7 @@
 {
     "Error": false,
-    "Message": "Comando ejecutado exitósamente"
+    "Message": "Comando ejecutado exitósamente",
+  "profile": {
+    "name": "typicode"
+  }
 }
