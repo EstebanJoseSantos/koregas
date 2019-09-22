@@ -1,8 +1,8 @@
 {
-"posts": [
+  "posts": [
     {
-      "Error": 1,
-      "Message": "Comando ejecutado exitósamente"
+      "id": 1,
+      "title": "hello"
     }
   ],
   "profile": {
