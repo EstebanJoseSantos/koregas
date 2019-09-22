@@ -1,7 +1,15 @@
 {
-    "Error": false,
-    "Message": "Comando ejecutado exitósamente",
+"posts": [
+    {
+      "Error": 1,
+      "Message": "hello"
+    }
+  ],
+4
   "profile": {
+5
     "name": "typicode"
+6
   }
+7
 }
